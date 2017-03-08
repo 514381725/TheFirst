@@ -10,6 +10,7 @@ public class A {
     public static int m2(){
         System.out.print("2");
         return 2;
+
     }
     public  int m3(){
         System.out.print("3");
